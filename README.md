@@ -6,7 +6,11 @@ Thanks you've chosen CheckEmail.
 
 CheckEmail has been written on [Python] with usage [PyQt5].
 
-The main purpose to write this program is to get a lightweight program for monitoring new Emails and avoid running heavyweight Email clients.
+The program's main window:
+
+![MainWindow_EN.png](For_README/Google_Security_EN/MainWindow_EN.png)
+
+The main purpose to write this program was to get a lightweight program for monitoring new Emails and avoid running heavyweight Email clients.
 
 CheckEmail can start with OS and be in the system tray just doing it was created for.
 
@@ -22,7 +26,7 @@ CheckEmail supports Emails:
 
 CheckEmail was tested:
 
-- Debian 9 x64 (Xfce4)
+- Debian 9 x64 (Xfce4, MATE)
 - Windows 10 x64
 
 ## Installation
